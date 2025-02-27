@@ -34,10 +34,6 @@ E-Willness is a doctor recommendation app built with **Flutter** and **REST API*
    flutter run
    ```
 
-## API Configuration
-- Ensure the backend API is running and update the **API base URL** in the project before running the app.
-- Configure **Firebase** if push notifications and authentication are used.
-
 ## Future Enhancements
 - AI-powered chatbot for instant health guidance.
 - Integration with wearable health devices.
