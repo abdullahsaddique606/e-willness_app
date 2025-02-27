@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830415187014",
+    "project_id": "fyp2-c97ef",
+    "storage_bucket": "fyp2-c97ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830415187014:android:d7db62e1aedea13c6fae47",
+        "android_client_info": {
+          "package_name": "com.example.e_wellness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8MytZoUtkdDoDtzSRyRdaERtBaByt7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830415187014:android:3c3e58342f47cab76fae47",
+        "android_client_info": {
+          "package_name": "com.fyp.ewillnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8MytZoUtkdDoDtzSRyRdaERtBaByt7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
